@@ -1,0 +1,19 @@
+
+
+img {
+  width: 200px;
+  height: 200px;
+  transform: rotate(90deg);
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.deleteUser{
+  cursor: pointer;
+  display: inline-block;
+  width: 26px;
+  color: white;
+  border-radius: 50%;
+  background-color: rgb(248, 101, 38);
+  margin-left: 10px;
+}
